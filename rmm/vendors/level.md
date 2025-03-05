@@ -9,8 +9,8 @@ type: rmm
 ### Features
 - parent: Level
 - emp_size: Small
-- founded: 2013
-- headquarters: Raleigh, NC
+- founded: 2019
+- headquarters: Asheville, NC
 - public_private: Private
 - acquisition: None
 
@@ -19,34 +19,34 @@ type: rmm
 - db_access: false
 - hybrid: false
 - multi_tenant: true
-- white_label: Limited
+- white_label: true
 
 - patch_management: true
 - remote_access: true
 - monitoring: true
 - run_scripts: true
-- mobile_app: true
+- mobile_app: false
 - api_access: true
 - self_service_portal: true
 - reporting: true
-- automation: Limited
+- automation: true
 - asset_management: true
-- network_topology: Limited
+- network_topology: false
 - documentation: Limited
-- knowledge_base: Limited
+- knowledge_base: false
 
 - powershell: true
 - bash: true
-- python: false
+- python: true
 - script_library: true
 - script_scheduling: true
 - custom_scripts: true
-- script_templates: Limited
+- script_templates: true
 
 - server_monitoring: true
 - workstation_monitoring: true
-- network_monitoring: Limited
-- custom_monitors: Limited
+- network_monitoring: false
+- custom_monitors: true
 - snmp_monitoring: Limited
 - alert_management: true
 - threshold_based: true
@@ -66,15 +66,15 @@ type: rmm
 - third_party_patching: true
 - patch_approval: true
 - patch_scheduling: true
-- os_patching: Limited
+- os_patching: true
 - patch_reporting: true
-- patch_testing: Limited
+- patch_testing: true
 - patch_rollback: Limited
 
 - antivirus: false
 - backup: false
 - vulnerability_scanning: Limited
-- disk_encryption: false
+- disk_encryption: true
 - mfa: true
 - ransomware_detection: false
 - endpoint_protection: false
@@ -86,7 +86,7 @@ type: rmm
 - built_in_psa: false
 - connectwise_manage: true
 - datto_autotask: true
-- halo_psa: false
+- halo_psa: true
 - kaseya_bms: false
 - syncro: false
 - tigerpaw: false
@@ -124,7 +124,7 @@ type: rmm
 - per_user: false
 - per_technician: false
 - tiered_pricing: true
-- all_inclusive: false
+- all_inclusive: true
 - free_trial: true
 - money_back: true
 - contract_required: false
