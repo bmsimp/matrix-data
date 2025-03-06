@@ -1,3 +1,9 @@
+# Updates
+
+If you feel data is out of data, incorrect, missing, or needed, please create a pull request to update the information.
+
+
+
 # Product Matrix Data
 
 This directory contains the markdown files that define the data for the Product Matrix feature comparison tool. The data is organized by product type, making it easy to update and maintain through GitHub or any text editor.
