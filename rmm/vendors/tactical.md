@@ -1,9 +1,10 @@
-# TacticalRMM
+# Tactical RMM
 
-## RMM
+## Placeholder
 - id: tactical_rmm
 - website: 
 - defaultVisible: false
+- last_updated_date: N/A
 
 ### Features
 - parent: Not Filled Out

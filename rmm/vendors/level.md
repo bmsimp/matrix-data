@@ -4,6 +4,7 @@ type: rmm
 ## Level
 - id: level_rmm
 - website: https://level.io/
+- last_updated_date: 3/4/2025
 - defaultVisible: true
 
 ### Features

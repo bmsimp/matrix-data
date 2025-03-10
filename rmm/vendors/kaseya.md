@@ -5,13 +5,14 @@ type: rmm
 - id: kaseya_vsa
 - website: https://www.kaseya.com/products/vsa/
 - defaultVisible: true
+- last_updated_date: N/A
 
 ### Features
-- parent: Kaseya
+- parent: Insight Partners
 - emp_size: Large
 - founded: 2000
 - headquarters: Miami, FL
-- public_private: Private
+- public_private: Private (PE)
 - acquisition: Acquired by Insight Partners in 2019
 
 - cloud: true
@@ -136,11 +137,11 @@ type: rmm
 - defaultVisible: false
 
 ### Features
-- parent: Not Filled Out
+- parent: Insight Partners
 - emp_size: Not Filled Out
 - founded: Not Filled Out
 - headquarters: Not Filled Out
-- public_private: Not Filled Out
+- public_private: Private (PE)
 - acquisition: Not Filled Out
 
 - cloud: false
@@ -266,11 +267,11 @@ type: rmm
 - defaultVisible: true
 
 ### Features
-- parent: Kaseya
+- parent: Insight Partners
 - emp_size: Large
 - founded: 2007
 - headquarters: Norwalk, CT
-- public_private: Private
+- public_private: Private (PE)
 - acquisition: Acquired by Kaseya in 2022
 
 - cloud: true
@@ -395,12 +396,12 @@ type: rmm
 - defaultVisible: true
 
 ### Features
-- parent: Kaseya
+- parent: Insight Partners
 - emp_size: Medium
 - founded: 2011
 - headquarters: Dublin, Ireland
-- public_private: Private
-- acquisition: None
+- public_private: Private (PE)
+- acquisition: Kaseya Owns Majority Share of MMSOFT
 
 - cloud: true
 - on_premises: false

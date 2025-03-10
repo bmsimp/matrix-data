@@ -6,6 +6,7 @@ This file contains features specific to Remote Monitoring & Management (RMM) pro
 
 | ID | Name | Description |
 |----|------|-------------|
+| last_updated_date | Date last verified or updated |
 | parent | Parent | Parent Company |
 | emp_size | Employee Size | Size of the company or division |
 | founded | Founded | Year the company was founded |

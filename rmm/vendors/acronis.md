@@ -1,130 +1,137 @@
 # Acronis
 
-## Placeholder
+## RMM (Management)
 - id: acronis_rmm
 - website: 
-- defaultVisible: true
+- defaultVisible: false
+- last_updated_date: N/A
 
 ### Features
-- parent: Not Filled Out
-- emp_size: Not Filled Out
+- parent: EQT
+- emp_size: Large
 - founded: Not Filled Out
-- headquarters: Not Filled Out
-- public_private: Not Filled Out
-- acquisition: Not Filled Out
+- headquarters: Singapore/Switzerland/Bulgaria/US
+- public_private: Private (PE)
+- acquisition: 2024 by EQT
 
-- cloud: false
-- on_premises: false
+- cloud: true
+- on_premises: true
 - db_access: false
 - hybrid: false
-- multi_tenant: false
-- white_label: false
+- multi_tenant: true
+- white_label: true
 
-- patch_management: false
-- remote_access: false
-- monitoring: false
-- run_scripts: false
-- mobile_app: false
-- api_access: false
-- self_service_portal: false
-- reporting: false
-- automation: false
-- asset_management: false
-- network_topology: false
-- documentation: false
-- knowledge_base: false
+- patch_management: true
+> Windows, 3PP
+- remote_access: true
+- monitoring: true
+- run_scripts: true
+> powershell / bash
+- mobile_app: true
+- api_access: true
+- self_service_portal: true
+- reporting: true
+- automation: true
+- asset_management: true
+- network_topology: true
+- documentation: true
+- knowledge_base: true
 
-- powershell: false
-- bash: false
+- powershell: true
+- bash: true
 - python: false
-- script_library: false
-- script_scheduling: false
-- custom_scripts: false
-- script_templates: false
+- script_library: true
+- script_scheduling: true
+- custom_scripts: true
+- script_templates: true
 
-- server_monitoring: false
-- workstation_monitoring: false
-- network_monitoring: false
-- custom_monitors: false
-- snmp_monitoring: false
-- alert_management: false
-- threshold_based: false
-- event_log_monitoring: false
-- service_monitoring: false
-- process_monitoring: false
-- performance_monitoring: false
+- server_monitoring: true
+- workstation_monitoring: true
+- network_monitoring: true
+- custom_monitors: true
+- snmp_monitoring: true
+- alert_management: true
+- threshold_based: true
+- event_log_monitoring: true
+- service_monitoring: true
+- process_monitoring: true
+- performance_monitoring: true
 
-- app_performance: false
-- user_experience: false
+- app_performance: true
+- user_experience: true
 - synthetic_monitoring: false
 - browser_monitoring: false
 - session_recording: false
-- application_control: false
+- application_control: true
 
-- windows_patching: false
-- third_party_patching: false
-- patch_approval: false
-- patch_scheduling: false
-- os_patching: false
-- patch_reporting: false
-- patch_testing: false
-- patch_rollback: false
+- windows_patching: true
+- third_party_patching: true
+- patch_approval: true
+- patch_scheduling: true
+- os_patching: true
+- patch_reporting: true
+- patch_testing: true
+- patch_rollback: true
 
-- antivirus: false
-- backup: false
-- vulnerability_scanning: false
-- disk_encryption: false
-- mfa: false
-- ransomware_detection: false
-- endpoint_protection: false
-- firewall_management: false
-- security_policies: false
-- compliance_reporting: false
-- siem_integration: false
+- antivirus: true
+- backup: true
+- vulnerability_scanning: true
+- disk_encryption: true
+- mfa: true
+- ransomware_detection: true
+- endpoint_protection: true
+- firewall_management: true
+- security_policies: true
+- compliance_reporting: true
+- siem_integration: true
 
-- built_in_psa: false
-- connectwise_manage: false
-- datto_autotask: false
-- halo_psa: false
+- built_in_psa: true
+> Acronis PSA (formerly Advanced Automation)
+- connectwise_manage: true
+- datto_autotask: true
+- halo_psa: true
 - kaseya_bms: false
 - syncro: false
 - tigerpaw: false
 - atera: false
 - servicenow: false
+- computicate: true
 
-- file_backup: false
-- image_backup: false
-- cloud_backup: false
-- local_backup: false
-- backup_scheduling: false
-- backup_monitoring: false
-- backup_reporting: false
-- disaster_recovery: false
-- backup_testing: false
+- file_backup: true
+- image_backup: true
+- cloud_backup: true
+- local_backup: true
+- backup_scheduling: true
+- backup_monitoring: true
+- backup_reporting: true
+- disaster_recovery: true
+- backup_testing: true
 
-- mdm: false
-- byod_support: false
-- mobile_app_management: false
-- mobile_security: false
-- mobile_monitoring: false
-- mobile_remote_control: false
-- mobile_wipe: false
+- mdm: true
+- byod_support: true
+- mobile_app_management: true
+- mobile_security: true
+- mobile_monitoring: true
+- mobile_remote_control: true
+- mobile_wipe: true
 
-- standard_reports: false
-- custom_reports: false
-- scheduled_reports: false
-- executive_reports: false
-- client_reports: false
-- dashboard: false
-- business_intelligence: false
-- report_export: false
+- standard_reports: true
+- custom_reports: true
+- scheduled_reports: true
+- executive_reports: true
+- client_reports: true
+- dashboard: true
+- business_intelligence: true
+- report_export: true
 
-- per_device: false
+- per_device: true
+> $1.09
 - per_user: false
-- per_technician: false
-- tiered_pricing: false
+- per_technician: true
+> 50$ / tech
+- tiered_pricing: true
 - all_inclusive: false
-- free_trial: false
+- free_trial: true
 - money_back: false
 - contract_required: false
 - minimum_commitment: false 

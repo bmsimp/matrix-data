@@ -5,6 +5,7 @@ type: rmm
 - id: naverisk_rmm
 - website: https://naverisk.com/
 - defaultVisible: false
+- last_updated_date: N/A
 
 ### Features
 - parent: Naverisk

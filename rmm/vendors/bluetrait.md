@@ -5,12 +5,13 @@ type: rmm
 - id: bluetrait_rmm
 - website: https://bluetrait.io/
 - defaultVisible: false
+- last_updated_date: N/A
 
 ### Features
-- parent: Bluetrait
-- emp_size: Small
+- parent: Dalegroup Pty Ltd
+- emp_size: very small
 - founded: 2014
-- headquarters: Netherlands
+- headquarters: Australia
 - public_private: Private
 - acquisition: None
 
@@ -29,7 +30,7 @@ type: rmm
 - api_access: true
 - self_service_portal: true
 - reporting: true
-- automation: Limited
+- automation: true
 - asset_management: true
 - network_topology: Limited
 - documentation: Limited
@@ -83,15 +84,21 @@ type: rmm
 - compliance_reporting: Limited
 - siem_integration: false
 
-- built_in_psa: false
-- connectwise_manage: true
-- datto_autotask: true
+- built_in_psa: true
+> Single System with PSA
+- connectwise_manage: false
+- datto_autotask: false
 - halo_psa: false
+> coming soon
 - kaseya_bms: false
 - syncro: false
 - tigerpaw: false
 - atera: false
 - servicenow: false
+- accelo: true
+- computicate: true
+- harmony: true
+- n-able_msp_manager: true
 
 - file_backup: Limited
 - image_backup: Limited

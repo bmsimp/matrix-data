@@ -5,6 +5,7 @@ type: rmm
 - id: optitune_rmm
 - website: https://www.bravurasoftware.com/optitune/
 - defaultVisible: false
+- last_updated_date: N/A
 
 ### Features
 - parent: Bravura Software

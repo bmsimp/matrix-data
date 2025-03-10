@@ -5,6 +5,7 @@ type: rmm
 - id: action1_rmm
 - website: https://www.action1.com/
 - defaultVisible: false
+- last_updated_date: N/A
 
 ### Features
 - parent: Independent

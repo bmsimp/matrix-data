@@ -4,7 +4,7 @@ type: rmm
 ## SolarWinds RMM
 - id: solarwinds_rmm
 - website: https://www.solarwinds.com/msp/rmm
-- defaultVisible: true
+- last_updated_date: N/A
 
 ### Features
 - parent: SolarWinds

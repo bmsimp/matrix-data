@@ -5,6 +5,7 @@ type: rmm
 - id: n_central
 - website: https://www.n-able.com/products/n-central
 - defaultVisible: true
+- last_updated_date: N/A
 
 ### Features
 - parent: N-able

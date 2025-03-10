@@ -5,6 +5,7 @@ type: rmm
 - id: panorama9_rmm
 - website: https://www.panorama9.com/
 - defaultVisible: false
+- last_updated_date: N/A
 
 ### Features
 - parent: Panorama9

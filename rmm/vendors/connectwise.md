@@ -5,13 +5,14 @@ type: rmm
 - id: connectwise_automate
 - website: https://www.connectwise.com/platform/unified-management/automate
 - defaultVisible: true
+- last_updated_date: N/A
 
 ### Features
-- parent: ConnectWise
+- parent: Thoma Bravo
 - emp_size: Large
 - founded: 1982
 - headquarters: Tampa, FL
-- public_private: Private
+- public_private: Private (PE)
 - acquisition: Acquired by Thoma Bravo in 2019
 
 - cloud: true
@@ -134,13 +135,14 @@ type: rmm
 - id: connectwise_rmm
 - website: https://www.connectwise.com/platform/unified-management/rmm
 - defaultVisible: true
+- last_updated_date: N/A
 
 ### Features
-- parent: ConnectWise
+- parent: Thoma Bravo
 - emp_size: Large
 - founded: 1982
 - headquarters: Tampa, FL
-- public_private: Private
+- public_private: Private (PE)
 - acquisition: Acquired by Thoma Bravo in 2019
 
 - cloud: true

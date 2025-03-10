@@ -5,6 +5,7 @@ type: rmm
 - id: syncro
 - website: https://syncromsp.com/
 - defaultVisible: true
+- last_updated_date: N/A
 
 ### Features
 - parent: Syncro

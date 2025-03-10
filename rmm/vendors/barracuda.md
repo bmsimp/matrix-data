@@ -3,8 +3,9 @@ type: rmm
 
 ## Barracuda RMM
 - id: barracuda_rmm
-- website: https://www.barracudamsp.com/product-details/barracuda-rmm/
+- website: https://www.barracudamsp.com/product-details/remote-monitoring-management/
 - defaultVisible: true
+- last_updated_date: N/A
 
 ### Features
 - parent: Barracuda Networks

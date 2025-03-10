@@ -5,6 +5,7 @@ type: rmm
 - id: atera
 - website: https://www.atera.com/
 - defaultVisible: true
+- last_updated_date: N/A
 
 ### Features
 - parent: Atera
