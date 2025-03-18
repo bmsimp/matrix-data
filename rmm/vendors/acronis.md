@@ -1,10 +1,9 @@
 # Acronis
-
 ## RMM (Management)
 - id: acronis_rmm
-- website: 
-- defaultVisible: false
-- last_updated_date: N/A
+- website: https://www.acronis.com/en-us/products/cloud/cyber-protect/management
+- defaultVisible: true
+- last_updated_date:
 
 ### Features
 - parent: EQT
