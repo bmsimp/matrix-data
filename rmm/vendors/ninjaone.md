@@ -4,7 +4,7 @@ type: rmm
 ## NinjaOne
 - id: ninjaone_rmm
 - website: https://www.ninjaone.com/
-- defaultVisible: true
+
 - last_updated_date: N/A
 
 ### Features
