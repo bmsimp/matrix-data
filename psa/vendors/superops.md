@@ -1,11 +1,6 @@
-# superops
+# SuperOps
 
-# Superops
-
-type: psa
-
-## SuperOps
-
+## PSA
 * id: superops\_psa
 * website: https://superops.com/psa-software
 * defaultVisible: true
