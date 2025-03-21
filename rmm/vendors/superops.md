@@ -1,0 +1,125 @@
+# superops
+
+# SuperOps
+
+type: rmm
+
+## NinjaOne
+
+* id: superops\_rmm
+* website: https://superops.com/rmm
+* defaultVisible: true
+* last\_updated\_date: 3/20/2025
+
+### Features
+
+* parent: SuperOps
+* emp\_size: 101-250
+* founded: 2020
+* headquarters: Chennai, Tamil Nadu, India
+* public\_private: Private
+* acquisition: None
+* cloud: true
+* on\_premises: false
+* db\_access: false
+* hybrid: false
+* multi\_tenant: false
+* white\_label: true
+* patch\_management: true
+* remote\_access: true
+* monitoring: true
+* run\_scripts: true
+* mobile\_app: true
+* api\_access: true
+* self\_service\_portal: true
+* reporting: true
+* automation: true
+* asset\_management: true
+* network\_topology: true
+* documentation: true
+* knowledge\_base: true
+* powershell: true
+* bash: true
+* python: false
+* script\_library: true
+* script\_scheduling: true
+* custom\_scripts: true
+* script\_templates: true
+* server\_monitoring: true
+* workstation\_monitoring: true
+* network\_monitoring: true
+* custom\_monitors: true
+* snmp\_monitoring: true
+* alert\_management: true
+* threshold\_based: true
+* event\_log\_monitoring: true
+* service\_monitoring: true
+* process\_monitoring: true
+* performance\_monitoring: true
+* app\_performance: Limited
+* user\_experience: Limited
+* synthetic\_monitoring: false
+* browser\_monitoring: false
+* session\_recording: false
+* application\_control: true
+* windows\_patching: true
+* third\_party\_patching: true
+* patch\_approval: true
+* patch\_scheduling: true
+* os\_patching: true
+* patch\_reporting: true
+* patch\_testing: true
+* patch\_rollback: true
+* antivirus: true
+* backup: true
+* vulnerability\_scanning: true
+* disk\_encryption: true
+* mfa: true
+* ransomware\_detection: true
+* endpoint\_protection: true
+* firewall\_management: true
+* security\_policies: true
+* compliance\_reporting: true
+* siem\_integration: false
+* built\_in\_psa: true
+* connectwise\_manage: false
+* datto\_autotask: false
+* halo\_psa: true
+* kaseya\_bms: false
+* syncro: false
+* tigerpaw: false
+* atera: false
+* servicenow: false
+* file\_backup: true
+* image\_backup: true
+* cloud\_backup: true
+* local\_backup: true
+* backup\_scheduling: true
+* backup\_monitoring: true
+* backup\_reporting: true
+* disaster\_recovery: true
+* backup\_testing: true
+* mdm: false
+* byod\_support: Limited
+* mobile\_app\_management: false
+* mobile\_security: false
+* mobile\_monitoring: false
+* mobile\_remote\_control: false
+* mobile\_wipe: false
+* standard\_reports: true
+* custom\_reports: true
+* scheduled\_reports: true
+* executive\_reports: true
+* client\_reports: true
+* dashboard: true
+* business\_intelligence: true
+* report\_export: true
+* per\_device: true
+* per\_user: false
+* per\_technician: true
+* tiered\_pricing: false
+* all\_inclusive: true
+* free\_trial: true
+* money\_back: false
+* contract\_required: false
+* minimum\_commitment: false
