@@ -1,11 +1,6 @@
 # superops
 
 # SuperOps
-
-type: rmm
-
-## NinjaOne
-
 * id: superops\_rmm
 * website: https://superops.com/rmm
 * defaultVisible: true
