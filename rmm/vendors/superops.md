@@ -1,6 +1,6 @@
-# superops
-
 # SuperOps
+
+## RMM
 * id: superops\_rmm
 * website: https://superops.com/rmm
 * defaultVisible: true
