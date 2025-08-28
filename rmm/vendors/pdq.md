@@ -1,6 +1,7 @@
 # PDQ
+type: rmm
 
-## Placeholder
+## PDQ
 - id: pdq_rmm
 - website: 
 - defaultVisible: false
