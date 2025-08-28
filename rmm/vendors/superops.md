@@ -1,13 +1,13 @@
 # SuperOps
+type: rmm
 
-## RMM
+## SuperOps
 - id: superops_rmm
 - website: https://superops.com/rmm
 - defaultVisible: true
 - last_updated_date: 3/20/2025
 
 ### Features
-
 - parent: SuperOps
 - emp_size: 101-250
 - founded: 2020
