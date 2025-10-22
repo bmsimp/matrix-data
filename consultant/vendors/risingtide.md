@@ -1,31 +1,34 @@
 # RisingTide Consulting
+
 type: consultant
 
 ## RisingTide Consulting
+
 - id: risingtide
 - name: RisingTide Consulting
 - type: Corporation
-- founded: 2018
-- location: Austin, TX
+- founded: 2022
+- location: MD, SC, GA
 - emp_size: 15
 - public_private: Private
-- website: https://risingtideconsulting.com/
-- contact_info: info@risingtideconsulting.com
-- social_media: @risingtide_consulting
-- office_locations: Austin, TX; Dallas, TX
+- website: https://www.risingtidegroup.net/
+- contact_info:
+- social_media:
+- office_locations: Multiple
 - remote_capability: true
 - travel_radius: 500 miles
 - emergency_support: false
 - experience_years: 6
 - specialties: RMM Optimization, PSA Migration
 - former_msp: true
-- languages: English, Spanish
-- hourly_rate: 150
+- languages: English
+- hourly_rate:
 - contract_terms: Net 30
 - payment_terms: Credit Card, ACH, Check
 - defaultVisible: false
 
 ### Features
+
 - name: RisingTide Consulting
 - type: Corporation
 - founded: 2018
@@ -48,6 +51,7 @@ type: consultant
 - payment_terms: Credit Card, ACH, Check
 
 ## RMM Support
+
 - rmm_consulting: false
 - rmm_implementation: false
 - rmm_migration: false
@@ -64,6 +68,7 @@ type: consultant
 - action1: false
 
 ## PSA Support
+
 - psa_consulting: false
 - psa_implementation: false
 - psa_migration: false
@@ -80,6 +85,7 @@ type: consultant
 - sherpadesk: false
 
 ## Business Support
+
 - business_consulting: false
 - strategic_planning: false
 - process_optimization: false
@@ -97,6 +103,7 @@ type: consultant
 - quality_assurance: false
 
 ## Service Delivery
+
 - delivery_method: false
 - project_scope: false
 - timeline_commitment: false
@@ -109,6 +116,7 @@ type: consultant
 - post_project_support: false
 
 ## Technology Expertise
+
 - cloud_platforms: false
 - virtualization: false
 - networking: false
