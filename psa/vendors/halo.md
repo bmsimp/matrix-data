@@ -1,10 +1,11 @@
 # Halo Service Solutions
 type: psa
 
-## Halo PSA
+## HaloPSA
 - id: halo_psa
 - website: https://halopsa.com/
 - defaultVisible: true
+- last_updated_date: 2025-01-22
 
 ### Features
 - multi_tenant: true
@@ -27,4 +28,10 @@ type: psa
 - dashboards: true
 - rmm_integration: true
 - accounting_integration: true
-- email_integration: true 
+- email_integration: true
+- parent: Halo Service Solutions Ltd.
+- emp_size: 200+ employees
+- founded: 2001
+- headquarters: London, United Kingdom
+- public_private: Private
+- acquisition: None 
