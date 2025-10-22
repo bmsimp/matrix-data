@@ -1,21 +1,26 @@
 # N-able
+
 type: backup
 
-## Placeholder
+## Cove
+
 - id: nable_cove
 - website: https://www.n-able.com/products/cove-data-protection
-- defaultVisible: false
+- defaultVisible: true
 
 ### Features
+
 #### Company
-- parent: 
-- emp_size: 
-- founded: 
-- headquarters: 
-- public_private: 
-- acquisition: 
+
+- parent: N-able
+- emp_size: Large
+- founded: 2000
+- headquarters: Burlington, MA
+- public_private: Public
+- acquisition: Acquired in 2013, spun off in 2021
 
 #### Architecture
+
 - cloud: false
 - on_premises: false
 - hybrid: false
@@ -26,6 +31,7 @@ type: backup
 - api: false
 
 #### Backup Sources
+
 - windows_server: false
 - windows_desktop: false
 - macos: false
@@ -47,6 +53,7 @@ type: backup
 - containers: false
 
 #### Backup Features
+
 - file_folder: false
 - image_based: false
 - incremental: false
@@ -74,6 +81,7 @@ type: backup
 - self_service_portal: false
 
 #### Disaster Recovery
+
 - local_virtualization: false
 - cloud_virtualization: false
 - automated_dr_testing: false
@@ -88,6 +96,7 @@ type: backup
 - dr_documentation: false
 
 #### Storage & Archiving
+
 - local_storage: false
 - cloud_storage: false
 - tape_support: false
@@ -105,6 +114,7 @@ type: backup
 - backblaze: false
 
 #### Security & Compliance
+
 - mfa: false
 - rbac: false
 - audit_logging: false
@@ -119,6 +129,7 @@ type: backup
 - data_sovereignty: false
 
 #### Management & Monitoring
+
 - centralized_management: false
 - multi_site_management: false
 - monitoring: false
@@ -133,6 +144,7 @@ type: backup
 - mobile_app: false
 
 #### Integration
+
 - psa_integration: false
 - rmm_integration: false
 - connectwise_manage: false
@@ -148,6 +160,7 @@ type: backup
 - snmp: false
 
 #### Pricing & Licensing
+
 - per_device: false
 - per_user: false
 - per_gb: false
@@ -158,4 +171,4 @@ type: backup
 - monthly_billing: false
 - annual_billing: false
 - usage_based: false
-- msp_pricing: false 
+- msp_pricing: false

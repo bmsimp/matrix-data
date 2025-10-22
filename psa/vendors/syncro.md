@@ -7,6 +7,12 @@ type: psa
 - defaultVisible: true
 
 ### Features
+- parent: Syncro
+- emp_size: Small
+- founded: 2017
+- headquarters: Philadelphia, PA
+- public_private: Private
+- acquisition: None
 - multi_tenant: true
 - mobile_app: true
 - api: true

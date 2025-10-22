@@ -1,12 +1,18 @@
 # Datto
 type: psa
 
-## Datto Autotask PSA
+## Autotask PSA
 - id: autotask_psa
 - website: https://www.datto.com/products/autotask-psa/
 - defaultVisible: true
 
 ### Features
+- parent: Insight Partners
+- emp_size: Large
+- founded: 2000
+- headquarters: Miami, FL
+- public_private: Private (PE)
+- acquisition: Acquired by Kaseya in 2022
 - multi_tenant: true
 - mobile_app: true
 - api: true
