@@ -1,17 +1,14 @@
-# Microsoft
-
+# JAMF
 type: mdm
 
-## Microsoft Intune
-
-- id: microsoft_intune
-- website: https://intune.microsoft.com/
+## JAMF Pro
+- id: jamf_pro
+- website: https://jamf.com/products/jamf-pro/
 - defaultVisible: true
 
 ### Features
-
 - cloud: true
-- on_premises: false
+- on_premises: true
 - hybrid: true
 - saas: true
 - multi_tenant: true
@@ -39,7 +36,7 @@ type: mdm
 - app_blacklisting: true
 - data_loss_prevention: true
 - conditional_access: true
-- threat_detection: true
+- threat_detection: false
 - active_directory: true
 - ldap_integration: true
 - sso_integration: true
@@ -49,10 +46,9 @@ type: mdm
 - alerting: true
 
 ### Company Information
-
-- parent: Microsoft Corporation
-- emp_size: 220,000+ employees
-- founded: 1975
-- headquarters: Redmond, Washington, USA
-- public_private: Public (NASDAQ: MSFT)
+- parent: JAMF Software, LLC
+- emp_size: 1,500+ employees
+- founded: 2002
+- headquarters: Minneapolis, Minnesota, USA
+- public_private: Private
 - acquisition: None

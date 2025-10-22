@@ -1,18 +1,18 @@
-# Microsoft
+# IBM
 
 type: mdm
 
-## Microsoft Intune
+## IBM MaaS360
 
-- id: microsoft_intune
-- website: https://intune.microsoft.com/
+- id: ibm_maas360
+- website: https://ibm.com/products/maas360
 - defaultVisible: true
 
 ### Features
 
 - cloud: true
 - on_premises: false
-- hybrid: true
+- hybrid: false
 - saas: true
 - multi_tenant: true
 - api_access: true
@@ -50,9 +50,9 @@ type: mdm
 
 ### Company Information
 
-- parent: Microsoft Corporation
-- emp_size: 220,000+ employees
-- founded: 1975
-- headquarters: Redmond, Washington, USA
-- public_private: Public (NASDAQ: MSFT)
+- parent: IBM
+- emp_size: 350,000+ employees
+- founded: 1911
+- headquarters: Armonk, New York, USA
+- public_private: Public (NYSE: IBM)
 - acquisition: None

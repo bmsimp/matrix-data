@@ -1,17 +1,17 @@
-# Microsoft
+# Ivanti
 
 type: mdm
 
-## Microsoft Intune
+## Neurons for MDM
 
-- id: microsoft_intune
-- website: https://intune.microsoft.com/
+- id: ivanti_neurons_mdm
+- website: https://ivanti.com/products/neurons-for-mobile-device-management
 - defaultVisible: true
 
 ### Features
 
 - cloud: true
-- on_premises: false
+- on_premises: true
 - hybrid: true
 - saas: true
 - multi_tenant: true
@@ -50,9 +50,9 @@ type: mdm
 
 ### Company Information
 
-- parent: Microsoft Corporation
-- emp_size: 220,000+ employees
-- founded: 1975
-- headquarters: Redmond, Washington, USA
-- public_private: Public (NASDAQ: MSFT)
+- parent: Ivanti, Inc.
+- emp_size: 2,000+ employees
+- founded: 2017 (merger of LANDESK and HEAT Software)
+- headquarters: South Jordan, Utah, USA
+- public_private: Private
 - acquisition: None

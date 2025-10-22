@@ -1,17 +1,17 @@
-# Microsoft
+# VMware
 
 type: mdm
 
-## Microsoft Intune
+## Workspace ONE
 
-- id: microsoft_intune
-- website: https://intune.microsoft.com/
+- id: vmware_workspace_one
+- website: https://vmware.com/products/workspace-one.html
 - defaultVisible: true
 
 ### Features
 
 - cloud: true
-- on_premises: false
+- on_premises: true
 - hybrid: true
 - saas: true
 - multi_tenant: true
@@ -20,7 +20,7 @@ type: mdm
 - android_support: true
 - windows_support: true
 - macos_support: true
-- linux_support: false
+- linux_support: true
 - chromebook_support: true
 - device_enrollment: true
 - app_management: true
@@ -50,9 +50,9 @@ type: mdm
 
 ### Company Information
 
-- parent: Microsoft Corporation
-- emp_size: 220,000+ employees
-- founded: 1975
-- headquarters: Redmond, Washington, USA
-- public_private: Public (NASDAQ: MSFT)
-- acquisition: None
+- parent: VMware, Inc.
+- emp_size: 35,000+ employees
+- founded: 1998
+- headquarters: Palo Alto, California, USA
+- public_private: Public (NYSE: VMW)
+- acquisition: Broadcom  (2023)

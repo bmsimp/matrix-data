@@ -1,17 +1,17 @@
-# Microsoft
+# Citrix
 
 type: mdm
 
-## Microsoft Intune
+## Citrix Endpoint Management
 
-- id: microsoft_intune
-- website: https://intune.microsoft.com/
+- id: citrix_endpoint_management
+- website: https://citrix.com/products/citrix-endpoint-management/
 - defaultVisible: true
 
 ### Features
 
 - cloud: true
-- on_premises: false
+- on_premises: true
 - hybrid: true
 - saas: true
 - multi_tenant: true
@@ -39,7 +39,7 @@ type: mdm
 - app_blacklisting: true
 - data_loss_prevention: true
 - conditional_access: true
-- threat_detection: true
+- threat_detection: false
 - active_directory: true
 - ldap_integration: true
 - sso_integration: true
@@ -50,9 +50,9 @@ type: mdm
 
 ### Company Information
 
-- parent: Microsoft Corporation
-- emp_size: 220,000+ employees
-- founded: 1975
-- headquarters: Redmond, Washington, USA
-- public_private: Public (NASDAQ: MSFT)
-- acquisition: None
+- parent: Citrix Systems, Inc.
+- emp_size: 8,000+ employees
+- founded: 1989
+- headquarters: Fort Lauderdale, Florida, USA
+- public_private: Private
+- acquisition:Vista Equity Partners(2022)

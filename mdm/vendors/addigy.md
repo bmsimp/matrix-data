@@ -1,27 +1,24 @@
-# Microsoft
-
+# Addigy
 type: mdm
 
-## Microsoft Intune
-
-- id: microsoft_intune
-- website: https://intune.microsoft.com/
+## Addigy MDM
+- id: addigy_mdm
+- website: https://addigy.com/
 - defaultVisible: true
 
 ### Features
-
 - cloud: true
 - on_premises: false
-- hybrid: true
+- hybrid: false
 - saas: true
 - multi_tenant: true
 - api_access: true
 - ios_support: true
-- android_support: true
-- windows_support: true
+- android_support: false
+- windows_support: false
 - macos_support: true
 - linux_support: false
-- chromebook_support: true
+- chromebook_support: false
 - device_enrollment: true
 - app_management: true
 - policy_management: true
@@ -38,8 +35,8 @@ type: mdm
 - app_whitelisting: true
 - app_blacklisting: true
 - data_loss_prevention: true
-- conditional_access: true
-- threat_detection: true
+- conditional_access: false
+- threat_detection: false
 - active_directory: true
 - ldap_integration: true
 - sso_integration: true
@@ -49,10 +46,9 @@ type: mdm
 - alerting: true
 
 ### Company Information
-
-- parent: Microsoft Corporation
-- emp_size: 220,000+ employees
-- founded: 1975
-- headquarters: Redmond, Washington, USA
-- public_private: Public (NASDAQ: MSFT)
+- parent: Addigy, Inc.
+- emp_size: 50-100 employees
+- founded: 2015
+- headquarters: Miami, Florida, USA
+- public_private: Private
 - acquisition: None
